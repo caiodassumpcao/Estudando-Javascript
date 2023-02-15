@@ -1,0 +1,51 @@
+const cafe = [
+  {
+    number: 1,
+    nome: "espresso",
+    sabor: "muito bom",
+    visual: 2,
+    preço: 5,
+  },
+  {
+    number: 2,
+    nome: "cappuccino",
+    sabor: "normal",
+    visual: 4,
+    preço: 12,
+  },
+  {
+    number: 3,
+    nome: "irish coffee",
+    sabor: "muito bom",
+    visual: 5,
+    preço: 69,
+  },
+  {
+    number: 4,
+    nome: "macchiato",
+    sabor: "ruim",
+    visual: 2,
+    preço: 34,
+  },
+  {
+    number: 5,
+    nome: "caffe latte",
+    sabor: "bom",
+    visual: 3,
+    preço: 11,
+  },
+  {
+    number: 6,
+    nome: "mocha",
+    sabor: "muito ruim",
+    visual: 4,
+    preço: 21,
+  },
+  {
+    number: 7,
+    nome: "duplo",
+    sabor: "excelente",
+    visual: 2,
+    preço: 7,
+  },
+];
